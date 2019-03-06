@@ -22,7 +22,7 @@ build_script:
   - ps: dotnet build .\OvChipApi\OvChipApi.csproj -c Release
   
 after_build:
-  - ps: dotnet pack .\OvChipApi\OvChipApi.csproj -c Release --no-build -o artifacts
+  - ps: dotnet pack .\OvChipApi\OvChipApi.csproj -c Release -p:PackageVersion={version} --no-build -o artifacts
   
 artifacts:
   - path: .\**\artifacts\*.nupkg

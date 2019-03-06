@@ -1,5 +1,7 @@
-OvChipApi [![AppVeyor](https://img.shields.io/appveyor/ci/AeonLucid/ovchipapi/master.svg?maxAge=60)](https://ci.appveyor.com/project/AeonLucid/ovchipapi)
+OvChipApi
 ===================
+
+[https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
 
 OvChipApi is written in C# and aims to make it easier to connect with the OV-chipkaart API.
 
