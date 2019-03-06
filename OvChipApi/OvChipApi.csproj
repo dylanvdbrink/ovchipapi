@@ -11,10 +11,12 @@
     <RepositoryUrl>https://github.com/AeonLucid/OvChipApi</RepositoryUrl>
     <PackageTags>OV-chipkaart;Trans link systems;ovchipapi;ov api</PackageTags>
     <Title>OVChipAPI</Title>
+    <PackageId>OVChipAPISharp</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
   </ItemGroup>
 
 </Project>
