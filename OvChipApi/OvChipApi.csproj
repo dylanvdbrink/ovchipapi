@@ -5,13 +5,14 @@
     <TargetFramework>netstandard1.1</TargetFramework>
     <Version>1.0.0</Version>
     <Authors>AeonLucid, dylanvdbrink</Authors>
-    <PackageLicenseUrl>https://github.com/AeonLucid/OvChipApi/blob/master/LICENSE.md</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/AeonLucid/OvChipApi</PackageProjectUrl>
+    <PackageLicenseUrl>https://bitbucket.org/dylanvandenbrink/ovchipapi/src/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://bitbucket.org/dylanvandenbrink/ovchipapi/</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/AeonLucid/OvChipApi</RepositoryUrl>
     <PackageTags>OV-chipkaart;Trans link systems;ovchipapi;ov api</PackageTags>
     <Title>OVChipAPI</Title>
     <PackageId>OVChipAPISharp</PackageId>
+    <PackageVersion>1.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
