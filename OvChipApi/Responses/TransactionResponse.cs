@@ -29,7 +29,7 @@ namespace OvChipApi.Responses
         public String ProductText { get; set; }
         public String PTO { get; set; }
         public long TransactionDateTime { get; set; }
-        public String TransctionInfo { get; set; }
+        public String TransactionInfo { get; set; }
         public String TransactionName { get; set; }
         public double EPurseMut { get; set; }
         public String EPurseMutInfo { get; set; }
