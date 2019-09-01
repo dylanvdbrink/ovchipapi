@@ -28,10 +28,10 @@ namespace OvChipApi.Responses
         public String ProductInfo { get; set; }
         public String ProductText { get; set; }
         public String PTO { get; set; }
-        public long TransactionDateTime { get; set; }
+        public long? TransactionDateTime { get; set; }
         public String TransactionInfo { get; set; }
         public String TransactionName { get; set; }
-        public double EPurseMut { get; set; }
+        public double? EPurseMut { get; set; }
         public String EPurseMutInfo { get; set; }
         public String TransactionExplanation { get; set; }
         public String TransactionPriority { get; set; }

@@ -12,7 +12,7 @@
     <PackageTags>OV-chipkaart;Trans link systems;ovchipapi;ov api</PackageTags>
     <Title>OVChipAPI</Title>
     <PackageId>OVChipAPISharp</PackageId>
-    <PackageVersion>1.2</PackageVersion>
+    <PackageVersion>1.2.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
