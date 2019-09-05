@@ -1,7 +1,7 @@
 OvChipApi
 ===================
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7wkuyeiaaa2op8rl?svg=true)](https://ci.appveyor.com/project/dylanvandenbrink/ovchipapi)
+[![Build status](https://ci.appveyor.com/api/projects/status/bb0yd79iwh1cy6n8?svg=true)](https://ci.appveyor.com/project/dylanvandenbrink/ovchipapi-g70gb)
 
 OvChipApi is written in C# and aims to make it easier to connect with the OV-chipkaart API.
 
