@@ -11,8 +11,9 @@ namespace OvChipApi.Demo
     {
         private static void Main(string[] args)
         {
-            var username = "***REMOVED***";
-            var password = "***REMOVED***";
+            // Fill credentials
+            var username = "";
+            var password = "";
 
             if (string.IsNullOrWhiteSpace(username) ||
                 string.IsNullOrWhiteSpace(password))
